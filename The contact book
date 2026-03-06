@@ -2,6 +2,7 @@ def contact_book():
     # Dictionary to store contacts: { "Name": ("Phone", "Label") }
     contacts = {}
 
+
     while True:
         print("\n--- Contact Book Menu ---")
         print("1. Add/Update Contact")
